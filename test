@@ -1,0 +1,31 @@
+Most Recent End-to-End Integration
+The most recent integration I personally built end-to-end was the Inbound integration to create person external identifier in Oracle HCM.
+Key Integrations & Contributions
+HCM Integrations
+•	Inbound integration to create person external identifier in Oracle HCM (most recent end-to-end build)
+•	Outbound integration to extract Person/Assignment/Job/Position/Department/Salary details from Oracle HCM and load into ATP DB tables using PL/SQL packages (collections)
+•	Employee creation from Oracle HCM to Concur
+•	COA creation from Oracle to ServiceNow
+•	Employee feed (HCM Extract) to Provider Trust
+•	Employee feed (HCM Extract + FF) to Navex
+•	Inbound integration to create worker/assignment details using HDL files
+FSCM Integrations
+•	Inbound integration to create AP Invoices using FBDI + callback
+•	Outbound integration to send Items and On-hand balances to DB using PL/SQL package
+•	GL POET inbound integration
+Reports Contribution
+•	New Hire Report
+•	Termination Report
+•	Pay Class Changes Report
+•	Unapproved Timecard Details Report
+•	Personal Payment Methods and Bank Accounts
+•	Missed Punches Report
+•	Address Update Report
+•	Pay Rate Changes Report
+Other Contributions
+•	VBS Redwood customizations with owned deployments using CI/CD
+Role & Contribution Split
+•	80% Individual contributor (hands-on design, build, testing)
+•	10% Coordination with functional users, stakeholders, and end-users
+•	10% Team oversight and guidance
+
